@@ -1,4 +1,4 @@
-﻿{
+{
     "urls": [
         {
             "name": "🇨🇳海豚线路🇨🇳",
@@ -12,7 +12,11 @@
             "name": "🇨🇳天涯线路 🇨🇳",
             "url": "https://gh-proxy.org/raw.githubusercontent.com/firewolf333333/tvbox-tianya/main/tianya_config.json"
         },
-        {
+		{
+            "name": "🇨🇳蝴蝶影视🇨🇳",
+            "url": "http://jk.html-5.me//i/蝴蝶影视.txt"
+        }, 
+	   {
             "name": "🇨🇳拉取海豚精选源🇨🇳",
             "url": "https://cdn.jsdmirror.com/gh/clh-bhj/chenhw@master/%E6%B5%B7%E8%B1%9A18%E7%B2%BE%E9%80%89"
         },
